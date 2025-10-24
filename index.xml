@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>some_note</title>
+    <link>https://quartz.jzhao.xyz/data-science/some_note</link>
+    <guid>https://quartz.jzhao.xyz/data-science/some_note</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 24 Oct 2025 21:22:12 GMT</pubDate>
+  </item><item>
+    <title>Welcome to my Digital Garden</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ See the documentation for how to start gardening. ]]></description>
+    <pubDate>Fri, 24 Oct 2025 21:22:12 GMT</pubDate>
+  </item><item>
+    <title>note0</title>
+    <link>https://quartz.jzhao.xyz/note0</link>
+    <guid>https://quartz.jzhao.xyz/note0</guid>
+    <description><![CDATA[ hello linked world. ]]></description>
+    <pubDate>Fri, 24 Oct 2025 21:22:12 GMT</pubDate>
+  </item><item>
+    <title>note1</title>
+    <link>https://quartz.jzhao.xyz/note1</link>
+    <guid>https://quartz.jzhao.xyz/note1</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 24 Oct 2025 21:22:12 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
