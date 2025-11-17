@@ -10,25 +10,31 @@
     <link>https://quartz.jzhao.xyz/data-science/some_note</link>
     <guid>https://quartz.jzhao.xyz/data-science/some_note</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 24 Oct 2025 21:32:58 GMT</pubDate>
+    <pubDate>Mon, 17 Nov 2025 18:46:49 GMT</pubDate>
   </item><item>
     <title>Welcome to my Digital Garden</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ See the documentation for how to start gardening. ]]></description>
-    <pubDate>Fri, 24 Oct 2025 21:32:58 GMT</pubDate>
+    <description><![CDATA[ See the documentation for how to start gardening. rdf sql. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 18:46:49 GMT</pubDate>
   </item><item>
     <title>note0</title>
     <link>https://quartz.jzhao.xyz/note0</link>
     <guid>https://quartz.jzhao.xyz/note0</guid>
     <description><![CDATA[ hello linked world. ]]></description>
-    <pubDate>Fri, 24 Oct 2025 21:32:58 GMT</pubDate>
+    <pubDate>Mon, 17 Nov 2025 18:46:49 GMT</pubDate>
   </item><item>
     <title>note1</title>
     <link>https://quartz.jzhao.xyz/note1</link>
     <guid>https://quartz.jzhao.xyz/note1</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 24 Oct 2025 21:32:58 GMT</pubDate>
+    <pubDate>Mon, 17 Nov 2025 18:46:49 GMT</pubDate>
+  </item><item>
+    <title>note2</title>
+    <link>https://quartz.jzhao.xyz/note2</link>
+    <guid>https://quartz.jzhao.xyz/note2</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 17 Nov 2025 18:46:49 GMT</pubDate>
   </item>
     </channel>
   </rss>
